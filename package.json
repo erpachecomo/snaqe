@@ -1,5 +1,5 @@
 {
-  "name": "headless-dropshipping-starter",
+  "name": "snaqe",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -7,7 +7,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": "Jamie Barton <jamie@notrab.dev> (https://notrab.dev)",
+  "author": "Ernesto Pacheco",
   "dependencies": {
     "@tailwindcss/forms": "0.5.3",
     "classcat": "5.0.4",
